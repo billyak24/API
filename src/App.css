@@ -1,0 +1,26 @@
+.go {
+    height:625px;
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .home1 {
+    height: 100vh;
+    display: flex;
+    top: 30%;
+    justify-content: center;
+  }
+  
+  .list__styling{
+    text-align: left;
+    border-radius: 10px;
+    background-color: rgba(235, 229, 229, 0.548);
+    height: 250px;
+    padding: 15px 50px;
+  }
+
+  
+  .home{
+      color:black;
+      font-weight: bolder;
+  }
